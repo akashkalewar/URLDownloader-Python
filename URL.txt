@@ -1,0 +1,7 @@
+https://res.cloudinary.com/demo/image/upload/sample.jpgs
+https://gahp.net/wp-content/uploads/2017/09/sample.pdf
+https://www.google.co.th/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
+https://en.unesco.org/inclusivepolicylab/sites/default/files/dummy-pdf_2.pdf
+https://s3.amazonaws.com/images.seroundtable.com/google-favicon-1558963904.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS2dIinFrE5lmhkkMxZ5hj7-kBfVIavUthi6t2PC-W1qIwX49s
+https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=video&cd=10&cad=rja&uact=8&ved=0ahUKEwjCuvjf9dDjAhXO6nMBHWXvAMwQuAIITDAJ&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsF99utFEfk4&usg=AOvVaw0XQjm2L1KxsWi0XYgBe0Hw
